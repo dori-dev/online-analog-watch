@@ -9,7 +9,7 @@ Open `index.html` with your browser!
 #
 ## Links
 
-<!-- Demo of Project: [corona-dori.herokuapp.com](https://corona-dori.herokuapp.com/) -->
+Demo of Project: [dori-dev.github.io/online-analog-watch](https://dori-dev.github.io/online-analog-watch/)
 
 Download Source Code: [Click Here](https://github.com/dori-dev/online-analog-watch/archive/refs/heads/main.zip)
 
